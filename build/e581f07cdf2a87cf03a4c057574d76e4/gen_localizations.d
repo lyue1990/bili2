@@ -1,0 +1,1 @@
+ /Users/xuhongru/Documents/workspace/dart/bili2/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/xuhongru/Documents/workspace/dart/bili2/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/xuhongru/Documents/workspace/dart/bili2/l10n.yaml /Users/xuhongru/Documents/workspace/dart/bili2/lib/src/localization/app_en.arb
